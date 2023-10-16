@@ -7,5 +7,5 @@ in [GitHub Classroom](https://classroom.github.com/classrooms/143348672-lmu-cmsi
 
 - [Assignment 0914](./standalone.md) Standalone vanilla web app
 - [Assignment 1005](./generic-api-backed.md) Generic API-backed web app
-- **Assignment 1102** Firebase-backed web app
+- [Assignment 1102](./firebase-backed.md) Firebase-backed web app
 - **Assignment 1214** Your own web app
